@@ -11,4 +11,7 @@ node {
     stage('fourth stage'){
         echo 'this is deploying phase'
     }
+    stage('fifth stage'){
+        echo 'this is deploying phase'
+    }
 }
